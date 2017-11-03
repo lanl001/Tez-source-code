@@ -524,6 +524,11 @@ public class TezRuntimeConfiguration {
       "merge.progress.records";
   public static final long TEZ_RUNTIME_RECORDS_BEFORE_PROGRESS_DEFAULT = 10000;
 
+  @Unstable
+  @ConfigurationProperty
+  public static final String TEZ_RUNTIME_GLOBAL_SORTED_TABLE =
+  TEZ_RUNTIME_PREFIX + "global.sorted.table";
+  
   static {
     tezRuntimeKeys.add(TEZ_RUNTIME_IFILE_READAHEAD);
     tezRuntimeKeys.add(TEZ_RUNTIME_IFILE_READAHEAD_BYTES);
@@ -585,6 +590,7 @@ public class TezRuntimeConfiguration {
     tezRuntimeKeys.add(TEZ_RUNTIME_CONVERT_USER_PAYLOAD_TO_HISTORY_TEXT);
     tezRuntimeKeys.add(TEZ_RUNTIME_SORTER_CLASS);
     tezRuntimeKeys.add(TEZ_RUNTIME_CLEANUP_FILES_ON_INTERRUPT);
+    tezRuntimeKeys.add(TEZ_RUNTIME_GLOBAL_SORTED_TABLE);
 
     defaultConf.addResource("core-default.xml");
     defaultConf.addResource("core-site.xml");
