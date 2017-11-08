@@ -367,12 +367,10 @@ public class OrderedPartitionedKVOutputConfig {
     public Builder setFromConfiguration(Configuration conf) {
       // Maybe ensure this is the first call ? Otherwise this can end up overriding other parameters
       Preconditions.checkArgument(conf != null, "Configuration cannot be null");
-      boolean test = conf.getBoolean(TezRuntimeConfiguration.TEZ_RUNTIME_GLOBAL_SORTED_TABLE, false);
       Map<String, String> map = ConfigUtils.extractConfigurationMap(conf,
           Lists.newArrayList(OrderedPartitionedKVOutput.getConfigurationKeySet(),
               TezRuntimeConfiguration.getRuntimeAdditionalConfigKeySet()), TezRuntimeConfiguration.getAllowedPrefixes());
       ConfigUtils.addConfigMapToConfiguration(this.conf, map);
-      boolean test2 = this.conf.getBoolean(TezRuntimeConfiguration.TEZ_RUNTIME_GLOBAL_SORTED_TABLE, false);
       return this;
     }
 
