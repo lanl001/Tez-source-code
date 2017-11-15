@@ -1,0 +1,4 @@
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/hadoop-shim/src/main/java/org/apache/tez/hadoop/shim/DefaultHadoopShim.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/hadoop-shim/src/main/java/org/apache/tez/hadoop/shim/HadoopShimsLoader.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/hadoop-shim/src/main/java/org/apache/tez/hadoop/shim/HadoopShim.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/hadoop-shim/src/main/java/org/apache/tez/hadoop/shim/HadoopShimProvider.java

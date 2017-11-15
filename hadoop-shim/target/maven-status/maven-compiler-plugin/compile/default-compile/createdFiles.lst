@@ -1,0 +1,5 @@
+org/apache/tez/hadoop/shim/HadoopShimProvider.class
+org/apache/tez/hadoop/shim/DefaultHadoopShim.class
+org/apache/tez/hadoop/shim/HadoopShimsLoader$Version.class
+org/apache/tez/hadoop/shim/HadoopShimsLoader.class
+org/apache/tez/hadoop/shim/HadoopShim.class

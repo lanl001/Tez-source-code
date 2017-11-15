@@ -1,0 +1,9 @@
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-examples/src/main/java/org/apache/tez/examples/SortMergeJoinExample.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-examples/src/main/java/org/apache/tez/examples/HashJoinExample.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-examples/src/main/java/org/apache/tez/examples/JoinDataGen.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-examples/src/main/java/org/apache/tez/examples/WordCount.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-examples/src/main/java/org/apache/tez/examples/ExampleDriver.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-examples/src/main/java/org/apache/tez/examples/OrderedWordCount.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-examples/src/main/java/org/apache/tez/examples/JoinValidate.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-examples/src/main/java/org/apache/tez/examples/SimpleSessionExample.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-examples/src/main/java/org/apache/tez/examples/TezExampleBase.java

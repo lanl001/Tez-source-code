@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+  <name>tez-ext-service-tests</name>
+  <comment>NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+  <projects>
+    <project>tez-runtime-internals</project>
+    <project>tez-api</project>
+    <project>tez-common</project>
+    <project>hadoop-shim</project>
+    <project>tez-runtime-library</project>
+    <project>tez-dag</project>
+    <project>tez-tests</project>
+    <project>tez-mapreduce</project>
+    <project>tez-examples</project>
+  </projects>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>

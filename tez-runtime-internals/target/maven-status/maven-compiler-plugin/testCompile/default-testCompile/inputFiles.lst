@@ -1,0 +1,12 @@
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-runtime-internals/src/test/java/org/apache/tez/runtime/api/impl/TestTezEvent.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-runtime-internals/src/test/java/org/apache/tez/runtime/task/TestContainerExecution.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-runtime-internals/src/test/java/org/apache/tez/runtime/common/resources/TestMemoryDistributor.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-runtime-internals/src/test/java/org/apache/tez/runtime/task/TaskExecutionTestHelpers.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-runtime-internals/src/test/java/org/apache/tez/runtime/TestInputReadyTracker.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-runtime-internals/src/test/java/org/apache/tez/runtime/TestLogicalIOProcessorRuntimeTask.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-runtime-internals/src/test/java/org/apache/tez/runtime/api/impl/TestTaskSpec.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-runtime-internals/src/test/java/org/apache/tez/runtime/common/objectregistry/TestObjectRegistry.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-runtime-internals/src/test/java/org/apache/tez/runtime/task/TestTaskExecution2.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-runtime-internals/src/test/java/org/apache/tez/runtime/task/TestTaskReporter.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-runtime-internals/src/test/java/org/apache/tez/runtime/task/TestTezTaskRunner2.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-runtime-internals/src/test/java/org/apache/tez/runtime/api/impl/TestProcessorContext.java

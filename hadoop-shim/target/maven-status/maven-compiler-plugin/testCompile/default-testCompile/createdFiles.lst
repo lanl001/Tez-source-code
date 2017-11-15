@@ -1,0 +1,3 @@
+org/apache/tez/hadoop/shim/TestHadoopShimsLoader.class
+org/apache/tez/hadoop/shim/DummyShimProvider$DummyShim.class
+org/apache/tez/hadoop/shim/DummyShimProvider.class

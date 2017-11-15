@@ -1,0 +1,6 @@
+org/apache/tez/tools/javadoc/model/Config.class
+org/apache/tez/tools/javadoc/util/HtmlWriter.class
+org/apache/tez/tools/javadoc/util/XmlWriter.class
+org/apache/tez/tools/javadoc/doclet/ConfigStandardDoclet.class
+org/apache/tez/tools/javadoc/model/ConfigProperty.class
+org/apache/tez/tools/javadoc/util/Writer.class

@@ -1,0 +1,8 @@
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-common/src/test/java/org/apache/tez/common/MockDNSToSwitchMapping.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-common/src/test/java/org/apache/tez/dag/records/TestTezIds.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-common/src/test/java/org/apache/tez/common/TestTezUtils.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-common/src/test/java/org/apache/tez/common/TestEnvironmentUpdateUtils.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-common/src/test/java/org/apache/tez/util/TestTezMxBeanResourceCalculator.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-common/src/test/java/org/apache/tez/common/TestAsyncDispatcher.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-common/src/test/java/org/apache/tez/common/TestAsyncDispatcherConcurrent.java
+/home/lingxiaolan/tez-dev/tez-0.8.4-sourcecode/tez-common/src/test/java/org/apache/tez/util/TestStopWatch.java
